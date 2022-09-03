@@ -1,5 +1,3 @@
-Starter files for Angular, Node.js, MongoDB - MEAN stack -  to start new project made especially for Jack
-
 # MASTER-TEMPLATE- (without auth) -Angular-Node.js-MongoDB
 # This is mainly a template that I made to start a new Full Stack project using the MERN stack.
 # IF you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other template.
