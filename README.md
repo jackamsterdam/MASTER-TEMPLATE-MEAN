@@ -1,6 +1,6 @@
 # MASTER-TEMPLATE- (without auth) -Angular-Node.js-MongoDB
 # This is mainly a template that I made to start a new Full Stack project using the MERN stack.
-# IF you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other template.
+# If you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other template.
 # If you want to start a new project on your local machine follow these instructions:
 ## Please contact me if you used my template and enjoyed it - Linkedin: **https://www.linkedin.com/in/jack-amsterdam/**
 
