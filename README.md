@@ -10,7 +10,7 @@
 3. Project will open for you on http://localhost:4200
 
 
-## Jack's info:
+## Jack's info: 
 
 Please check out my info:
 
