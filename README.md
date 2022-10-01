@@ -1,4 +1,4 @@
-## MASTER-TEMPLATE- (without auth) -Angular-Node.js-MongoDB by Jack Amsterdam in Typescript for a Full Stack Project **&copy;**   ©️
+## MASTER-TEMPLATE- (without auth) -Angular-Node.js-MongoDB by Jack Amsterdam in Typescript for a Full Stack Project ©️
 # This is mainly a template that I made to start a new Full Stack project using the MEAN stack.
 
 ![This is an image](Frontend/src/assets/images/mean-stack.png)
