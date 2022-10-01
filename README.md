@@ -5,7 +5,6 @@
 
 **If you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other templates.
 
-![logo](https://user-images.githubusercontent.com/64046793/193428223-660e0873-5fdb-49d3-a2a1-c438a051c191.png)
 
 ## ___________________ Frontend/Backend Project by Jack Amsterdam in TYPESCRIPT **&copy;**
 
