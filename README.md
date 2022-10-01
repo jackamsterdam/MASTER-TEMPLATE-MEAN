@@ -2,7 +2,7 @@
 # This is mainly a template that I made to start a new Full Stack project using the MEAN stack.
 
 **If you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other templates.
-
+/assets/images/electrocat.png
 
 ## ___________________ Frontend/Backend Project by Jack Amsterdam in TYPESCRIPT **&copy;**
 
@@ -22,6 +22,13 @@ Secondly, I uploaded the server as a package to NPM that can run while you get__
 # Instructions to run the code on your local machine:
 
 ```bash
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+<!--```bash -->
+```
 1. Git clone the repository.
 2. There is a folder called Database -import the sql file into your phpMyAdmin or your MySQL Workbench.
 3. Open terminal by clicking on the Backend folder and type: npm i && npm start.
