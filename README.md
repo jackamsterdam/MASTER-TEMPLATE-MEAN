@@ -2,7 +2,7 @@
 # This is mainly a template that I made to start a new Full Stack project using the MEAN stack.
 
 **If you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other templates.
-/assets/images/electrocat.png
+![This is an image](/assets/images/mean-stack.png)
 
 ## ___________________ Frontend/Backend Project by Jack Amsterdam in TYPESCRIPT **&copy;**
 
