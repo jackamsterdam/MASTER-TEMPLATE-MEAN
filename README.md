@@ -1,8 +1,10 @@
 ## MASTER-TEMPLATE- (without auth) -Angular-Node.js-MongoDB by Jack Amsterdam in Typescript for a Full Stack Project **&copy;**
 # This is mainly a template that I made to start a new Full Stack project using the MEAN stack.
 
-**If you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other templates.
 ![This is an image](Frontend/src/assets/images/mean-stack.png)
+
+**If you are interested in a template with React and MySQL (with Authentication and Authorization in Node.js and React) please see my other templates.
+
 
 ## ___________________ Frontend/Backend Project by Jack Amsterdam in TYPESCRIPT **&copy;**
 
