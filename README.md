@@ -27,7 +27,7 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 <!--```bash -->
-```javascript
+```Javascript
 1. Git clone the repository.
 2. There is a folder called Database -import the sql file into your phpMyAdmin or your MySQL Workbench.
 3. Open terminal by clicking on the Backend folder and type: npm i && npm start.
