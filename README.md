@@ -21,12 +21,16 @@ Secondly, I uploaded the server as a package to NPM that can run while you get__
 
 # Instructions to run the code on your local machine:
 
+```bash
 1. Git clone the repository.
 2. There is a folder called Database -import the sql file into your phpMyAdmin or your MySQL Workbench.
 3. Open terminal by clicking on the Backend folder and type: npm i && npm start.
 4. Open a second seperate terminal by clicking on the Frontend folder and type: npm i && npm start.
-5. Backend Server will run for you on [http://localhost:3001](http://localhost:3001)
-6. Frontend Server will run for you on [http://localhost:4200](http://localhost:4200)
+5. Backend Server will run on http://localhost:3001
+6. Frontend Server will run on http://localhost:4200
+```
+<!--5. Backend Server will run for you on [http://localhost:3001](http://localhost:3001)
+6. Frontend Server will run for you on [http://localhost:4200](http://localhost:4200) -->
 
  *Possible errors - You did not open two seperate terminals and you are not running both servers or you did not upload the database properly.
 
